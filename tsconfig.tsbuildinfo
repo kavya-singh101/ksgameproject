@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/components/cell.tsx","./src/components/gameboard.tsx","./src/components/leaderboard.tsx","./src/components/statusbar.tsx","./src/components/usernamegate.tsx","./src/components/waitingroom.tsx","./src/hooks/usegamesocket.ts"],"version":"5.9.3"}
